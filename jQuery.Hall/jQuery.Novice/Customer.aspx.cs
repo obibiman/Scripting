@@ -11,7 +11,7 @@ namespace jQuery.Novice
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            var dtNow = DateTime.Now.ToShortTimeString();
         }
     }
 }
