@@ -11,10 +11,20 @@
       <File id="A8432BEF-614A-44DF-9AD5-02FF6ED19536/f:Site.Master" caret="0" fromTop="0" />
       <File id="A8432BEF-614A-44DF-9AD5-02FF6ED19536/f:Customer.aspx" caret="0" fromTop="0" />
       <File id="A8432BEF-614A-44DF-9AD5-02FF6ED19536/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="A8432BEF-614A-44DF-9AD5-02FF6ED19536/f:TextFile1.txt" caret="0" fromTop="0" />
+      <File id="9DAE3843-81AA-4106-BC2B-A5968E2D6C46/d:Interfaces/f:IBookRepository.cs" caret="93" fromTop="4" />
+      <File id="9DAE3843-81AA-4106-BC2B-A5968E2D6C46/d:Interfaces/f:IAuthorRepository.cs" caret="95" fromTop="4" />
+      <File id="9DAE3843-81AA-4106-BC2B-A5968E2D6C46/d:Interfaces/f:IGenreRepository.cs" caret="94" fromTop="4" />
+      <File id="0D145810-47E8-4D44-9923-65330DFF8BE8/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="0D145810-47E8-4D44-9923-65330DFF8BE8/f:Publisher.cs" caret="162" fromTop="11" />
     </RecentFiles>
     <RecentEdits>
       <File id="A8432BEF-614A-44DF-9AD5-02FF6ED19536/f:Site.Master" caret="0" fromTop="0" />
       <File id="A8432BEF-614A-44DF-9AD5-02FF6ED19536/f:Customer.aspx" caret="0" fromTop="0" />
+      <File id="9DAE3843-81AA-4106-BC2B-A5968E2D6C46/d:Interfaces/f:IBookRepository.cs" caret="131" fromTop="4" />
+      <File id="9DAE3843-81AA-4106-BC2B-A5968E2D6C46/d:Interfaces/f:IAuthorRepository.cs" caret="132" fromTop="4" />
+      <File id="9DAE3843-81AA-4106-BC2B-A5968E2D6C46/d:Interfaces/f:IGenreRepository.cs" caret="94" fromTop="4" />
+      <File id="0D145810-47E8-4D44-9923-65330DFF8BE8/f:Publisher.cs" caret="128" fromTop="7" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
