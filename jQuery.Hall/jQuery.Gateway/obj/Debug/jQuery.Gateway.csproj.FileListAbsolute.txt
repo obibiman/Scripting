@@ -1,0 +1,6 @@
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Gateway\bin\Debug\jQuery.Gateway.dll.config
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Gateway\bin\Debug\jQuery.Gateway.dll
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Gateway\bin\Debug\jQuery.Gateway.pdb
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Gateway\obj\Debug\ResolveAssemblyReference.cache
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Gateway\obj\Debug\jQuery.Gateway.dll
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Gateway\obj\Debug\jQuery.Gateway.pdb

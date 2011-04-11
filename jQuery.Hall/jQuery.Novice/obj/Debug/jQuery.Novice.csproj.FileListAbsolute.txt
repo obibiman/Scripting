@@ -3,3 +3,5 @@ C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Novice\bin\jQuery.Novice.pdb
 C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Novice\obj\Debug\ResolveAssemblyReference.cache
 C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Novice\obj\Debug\jQuery.Novice.dll
 C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Novice\obj\Debug\jQuery.Novice.pdb
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Novice\bin\jQuery.Biz.dll
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Novice\bin\jQuery.Biz.pdb

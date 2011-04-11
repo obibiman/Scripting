@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="A8432BEF-614A-44DF-9AD5-02FF6ED19536" ModuleId="jQuery.Novice" />
+  <Module PersistentId="0D145810-47E8-4D44-9923-65330DFF8BE8" ModuleId="jQuery.Biz" />
+  <Module PersistentId="9DAE3843-81AA-4106-BC2B-A5968E2D6C46" ModuleId="jQuery.Gateway" />
 </Modules>
