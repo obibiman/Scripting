@@ -5,3 +5,4 @@ C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Biz\obj\Debug\jQuery.Biz.dll
 C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Biz\obj\Debug\jQuery.Biz.pdb
 C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Biz\bin\Debug\jQuery.Gateway.dll
 C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Biz\bin\Debug\jQuery.Gateway.pdb
+C:\DotNetApps\Scripting\jQuery.Hall\jQuery.Biz\bin\Debug\App_Data\BarnesAndNoble.sdf
